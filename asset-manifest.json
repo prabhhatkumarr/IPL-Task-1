@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a039e01b.css",
+    "main.js": "/static/js/main.4d6a1888.js",
+    "static/media/RCB.png": "/static/media/RCB.1b59c77f0e5939f9bf94.png",
+    "static/media/KKR.png": "/static/media/KKR.ca904c7d40821aab6a98.png",
+    "static/media/SRH.png": "/static/media/SRH.19c957d53a7d094838b4.png",
+    "static/media/DC.jpg": "/static/media/DC.dbf3512b4c4c0e8f6105.jpg",
+    "static/media/KXIP.jpg": "/static/media/KXIP.68e89e9e7d48b444f404.jpg",
+    "static/media/CSK.jpg": "/static/media/CSK.bd24a25b19cc0827179f.jpg",
+    "static/media/RR.jpg": "/static/media/RR.d459c2545f95d8eddb33.jpg",
+    "static/media/MI.jpg": "/static/media/MI.b7f64e8017b053e94b55.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.a039e01b.css.map": "/static/css/main.a039e01b.css.map",
+    "main.4d6a1888.js.map": "/static/js/main.4d6a1888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a039e01b.css",
+    "static/js/main.4d6a1888.js"
+  ]
+}
